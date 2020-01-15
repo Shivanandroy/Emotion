@@ -1,5 +1,5 @@
 import numpy as np
-from scipy.imageio import imread, imresize
+from matplotlib.pyplot import imread
 
 
 def preprocess_input(x, v2=True):
